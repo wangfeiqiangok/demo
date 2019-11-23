@@ -1,7 +1,7 @@
 ﻿package com.pojo;
 
 public class User {
-    private  String username;//用户名
-    private  int age;//年龄99988
-    private String password;
+    private  String ui56u54u46username;//用户名
+    private  int aghrthrjhtrje;//年龄99988
+    private String passwordgegrthrth;
 }
