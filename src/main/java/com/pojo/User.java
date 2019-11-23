@@ -1,6 +1,6 @@
-package com.pojo;
+﻿package com.pojo;
 
 public class User {
     private  String username;//用户名
-    private  int age;//年龄
+    private  int age;//年龄99988
 }
